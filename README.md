@@ -1,4 +1,4 @@
- Lua - GlitchFun API Integration
+# Lua - Glitch Gaming API Integration
 
 A **Lua** script that uses **LuaSocket** (`socket.http`) and **cjson** to send an HTTP POST to `https://api.glitch.fun/api/titles/{title_id}/installs`.
 
